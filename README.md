@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science at The University of the Witwatersrand.
+I'm a Computer Science Student at The University of the Witwatersrand.
 
 
 ## 🌐 Socials:
