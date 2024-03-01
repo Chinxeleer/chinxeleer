@@ -7,8 +7,8 @@ I'm a Computer Science Student at The University of the Witwatersrand.
 # 💻 Tech Stack:
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) )
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chinxeleer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chinxeleer&theme=tokyonight&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=chinxeleer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chinxeleer&theme=tokyonight&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinxeleer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
