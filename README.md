@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Computer Science Student at The University of the Witwatersrand.
+My name is Blessing, I'm a Wits trained computer scientist intrested in all things rust!
+
 
 
 
