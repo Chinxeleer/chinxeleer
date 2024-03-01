@@ -8,10 +8,3 @@ My name is Blessing, I'm a Wits trained computer scientist intrested in all thin
 # 💻 Tech Stack:
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) )
 
-[![](https://visitcount.itsvg.in/api?id=chinxeleer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Blessingelk) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
