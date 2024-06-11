@@ -5,5 +5,5 @@ My name is Blessing, I'm a Wits trained computer scientist intrested in all thin
 
 
 
-# 💻 Tech Stack:![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=flat&logo=typescript&logoColor=white)
+# 💻 Tech Stack:  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=flat&logo=typescript&logoColor=white)
 
