@@ -1,7 +1,8 @@
 # Hi there 👋🏾
 My name is Blessing, I'm a Wits trained computer scientist intrested in all things rust!
 
-- I'm currently learning javascript
+- I'm currently learning Next.js
+
 
 
 
